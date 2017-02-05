@@ -1,0 +1,25 @@
+{
+    "name": "godforhire/prowlnotifications",
+    "description": "Prowl Notifications driver for Laravel 5.3 and up.",
+    "homepage": "https://github.com/godforhire/prowlnotifications",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "godforhire"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "guzzlehttp/guzzle": "^6.2",
+        "illuminate/notifications": "^5.3",
+        "illuminate/support": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "godforhire\\ProwlNotifications\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
