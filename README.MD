@@ -1,10 +1,10 @@
-# Prowl Push Notifications Channel for Laravel 5.3 and up
+# Prowl Push Notifications Channel for Laravel 6
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/godforhire/prowlnotifications.svg?style=flat-square)](https://packagist.org/packages/godforhire/prowlnotifications)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/godforhire/prowlnotifications.svg?style=flat-square)](https://packagist.org/packages/godforhire/prowlnotifications)
 
-This package makes it easy to send notifications using [Prowl](https://prowlapp.com) with Laravel 5.3 and 5.4.
+This package makes it easy to send notifications using [Prowl](https://prowlapp.com) with Laravel 6.
 
 ## Contents
 
